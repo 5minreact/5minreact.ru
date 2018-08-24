@@ -32,3 +32,8 @@ npm install -g gh-pages
 gh-pages -d public
 ```
 
+Либо одной командой:
+```
+npm run deploy
+```
+
