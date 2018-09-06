@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---10": [
+      "path---10-8f9b1b45df7e84d57116.js",
+      "path---10-8f9b1b45df7e84d57116.js.map"
+    ],
     "path---8-plan-for-addons-in-react-16": [
       "path---8-plan-for-addons-in-react-16-96723ff4c74d81ce1111.js",
       "path---8-plan-for-addons-in-react-16-96723ff4c74d81ce1111.js.map"
@@ -17,8 +21,8 @@
       "path---13-redux-business-logic-a9dd5aaede35ac37b39c.js.map"
     ],
     "path---4": [
-      "path---4-d0600103cb679b002977.js",
-      "path---4-d0600103cb679b002977.js.map"
+      "path---4-d91fe485b99894ba3d3f.js",
+      "path---4-d91fe485b99894ba3d3f.js.map"
     ],
     "path---38-react-typescript-newhr": [
       "path---38-react-typescript-newhr-42fab517e0e59bd48bd5.js",
@@ -45,8 +49,8 @@
       "path---44-middle-developer-day-d6306f741ea27a216017.js.map"
     ],
     "path---5": [
-      "path---5-9a786bff785844794acb.js",
-      "path---5-9a786bff785844794acb.js.map"
+      "path---5-c55b8aa289308817910c.js",
+      "path---5-c55b8aa289308817910c.js.map"
     ],
     "path---30-setstate-practice": [
       "path---30-setstate-practice-6291dcc2166317a16f36.js",
@@ -77,8 +81,8 @@
       "path---9-lifting-state-up-example-explained-0bc23d1d235c9b4f79b3.js.map"
     ],
     "path---8": [
-      "path---8-333f0821e637dd0da52d.js",
-      "path---8-333f0821e637dd0da52d.js.map"
+      "path---8-18e27d6cd37ab317b69e.js",
+      "path---8-18e27d6cd37ab317b69e.js.map"
     ],
     "path---35-frontfest-2017": [
       "path---35-frontfest-2017-5d0a369c16d9002a0dad.js",
@@ -89,8 +93,8 @@
       "path---36-jetbrains-ring-ui-d986bd2986a2181d0174.js.map"
     ],
     "path---7": [
-      "path---7-bceef0eafd4c33f93d40.js",
-      "path---7-bceef0eafd4c33f93d40.js.map"
+      "path---7-8d15cec929d4520a03f9.js",
+      "path---7-8d15cec929d4520a03f9.js.map"
     ],
     "path---1-react-fiber": [
       "path---1-react-fiber-1b5831bb5244e021e6c2.js",
@@ -101,8 +105,8 @@
       "path---31-getinstance-59ff84f7dfad36a93a14.js.map"
     ],
     "path---index": [
-      "path---index-a269b4155ba7732a4eb1.js",
-      "path---index-a269b4155ba7732a4eb1.js.map"
+      "path---index-142c0cd5907ed0c53699.js",
+      "path---index-142c0cd5907ed0c53699.js.map"
     ],
     "path---5-redux-derived-data": [
       "path---5-redux-derived-data-4857bcdc5dc9fb37bb49.js",
@@ -113,12 +117,12 @@
       "path---2-jsx-2-56bd99c9ad273d37a997.js.map"
     ],
     "path---45-simple-podcast-recording-made-easy": [
-      "path---45-simple-podcast-recording-made-easy-e7be839af5b4ea0997d5.js",
-      "path---45-simple-podcast-recording-made-easy-e7be839af5b4ea0997d5.js.map"
+      "path---45-simple-podcast-recording-made-easy-483fe980c73146425ca5.js",
+      "path---45-simple-podcast-recording-made-easy-483fe980c73146425ca5.js.map"
     ],
     "path---2": [
-      "path---2-0342e3b979c56a457e93.js",
-      "path---2-0342e3b979c56a457e93.js.map"
+      "path---2-fb30e3e8d195e85c9df8.js",
+      "path---2-fb30e3e8d195e85c9df8.js.map"
     ],
     "path---41-dan-abramov-beyond-react-16": [
       "path---41-dan-abramov-beyond-react-16-3fcf4e16235eb3d903fe.js",
@@ -129,8 +133,8 @@
       "path---33-kirill-mokevnin-hexlet-16ac56f7fcb1bd563bdb.js.map"
     ],
     "path---6": [
-      "path---6-5fd50981f1cbae604221.js",
-      "path---6-5fd50981f1cbae604221.js.map"
+      "path---6-309b3cd0a92f60c299fe.js",
+      "path---6-309b3cd0a92f60c299fe.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-6a8499945d426c60e0e9.js",
@@ -148,6 +152,10 @@
       "path---37-prettier-b536b1ce2429a4a8a728.js",
       "path---37-prettier-b536b1ce2429a4a8a728.js.map"
     ],
+    "path---46-juliarderity-by-chicoxyzzy": [
+      "path---46-juliarderity-by-chicoxyzzy-39e99d7ebc02b9f19790.js",
+      "path---46-juliarderity-by-chicoxyzzy-39e99d7ebc02b9f19790.js.map"
+    ],
     "path---29-error-monitoring": [
       "path---29-error-monitoring-58cea197d98da8a34455.js",
       "path---29-error-monitoring-58cea197d98da8a34455.js.map"
@@ -161,8 +169,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---3": [
-      "path---3-7d365db9f0356128e175.js",
-      "path---3-7d365db9f0356128e175.js.map"
+      "path---3-0b1a3938ba317fa52eda.js",
+      "path---3-0b1a3938ba317fa52eda.js.map"
     ],
     "path---24-podcasts": [
       "path---24-podcasts-3eb84b6c425c881aaf45.js",
@@ -185,8 +193,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---9": [
-      "path---9-f0a01566732e511845eb.js",
-      "path---9-f0a01566732e511845eb.js.map"
+      "path---9-5308f57052e2036c4c76.js",
+      "path---9-5308f57052e2036c4c76.js.map"
     ],
     "path---25-gatsbyjs": [
       "path---25-gatsbyjs-da8ebef9c5acc0209896.js",
@@ -217,9 +225,9 @@
       "path---34-frontconf-uikit-bem-react-core-c54b753474766188d360.js.map"
     ],
     "app": [
-      "app-8c07c8ff1b8d9bd9bc08.js",
+      "app-d6800141a066013f223b.js",
       "build-js-styles.css",
-      "app-8c07c8ff1b8d9bd9bc08.js.map",
+      "app-d6800141a066013f223b.js.map",
       "build-js-styles.css.map"
     ],
     "path---21-react-next-6-months": [
