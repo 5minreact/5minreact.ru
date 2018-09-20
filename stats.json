@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
     "path---10": [
-      "path---10-de3e74881b6687ad2670.js",
-      "path---10-de3e74881b6687ad2670.js.map"
+      "path---10-e9bc7a6eda3548d5929b.js",
+      "path---10-e9bc7a6eda3548d5929b.js.map"
     ],
     "path---8-plan-for-addons-in-react-16": [
       "path---8-plan-for-addons-in-react-16-96723ff4c74d81ce1111.js",
       "path---8-plan-for-addons-in-react-16-96723ff4c74d81ce1111.js.map"
+    ],
+    "path---48-the-majesty-of-vuejs-2-and-road-to-learn-react": [
+      "path---48-the-majesty-of-vuejs-2-and-road-to-learn-react-13264285899872cf8d9e.js",
+      "path---48-the-majesty-of-vuejs-2-and-road-to-learn-react-13264285899872cf8d9e.js.map"
     ],
     "path---19-reacteurope-holyjs": [
       "path---19-reacteurope-holyjs-af69e044926ae032a129.js",
@@ -21,8 +25,8 @@
       "path---13-redux-business-logic-a9dd5aaede35ac37b39c.js.map"
     ],
     "path---4": [
-      "path---4-42b01b626fc42891a080.js",
-      "path---4-42b01b626fc42891a080.js.map"
+      "path---4-9f32baa26d437fa5b747.js",
+      "path---4-9f32baa26d437fa5b747.js.map"
     ],
     "path---38-react-typescript-newhr": [
       "path---38-react-typescript-newhr-42fab517e0e59bd48bd5.js",
@@ -49,8 +53,8 @@
       "path---44-middle-developer-day-d6306f741ea27a216017.js.map"
     ],
     "path---5": [
-      "path---5-0b8c3f72cc7daf32124f.js",
-      "path---5-0b8c3f72cc7daf32124f.js.map"
+      "path---5-81b14ddb4a3aad39be58.js",
+      "path---5-81b14ddb4a3aad39be58.js.map"
     ],
     "path---30-setstate-practice": [
       "path---30-setstate-practice-6291dcc2166317a16f36.js",
@@ -77,16 +81,16 @@
       "component---src-layouts-index-js-7aeacbcba4755ef16b0a.js.map"
     ],
     "path---47-elm-019": [
-      "path---47-elm-019-8733c8b5f00ec5ed39d8.js",
-      "path---47-elm-019-8733c8b5f00ec5ed39d8.js.map"
+      "path---47-elm-019-eccdc9f479c7ae4b2f73.js",
+      "path---47-elm-019-eccdc9f479c7ae4b2f73.js.map"
     ],
     "path---9-lifting-state-up-example-explained": [
       "path---9-lifting-state-up-example-explained-0bc23d1d235c9b4f79b3.js",
       "path---9-lifting-state-up-example-explained-0bc23d1d235c9b4f79b3.js.map"
     ],
     "path---8": [
-      "path---8-1e8f9d4a39c99579eab2.js",
-      "path---8-1e8f9d4a39c99579eab2.js.map"
+      "path---8-5a5c5223619a8ef79620.js",
+      "path---8-5a5c5223619a8ef79620.js.map"
     ],
     "path---35-frontfest-2017": [
       "path---35-frontfest-2017-5d0a369c16d9002a0dad.js",
@@ -97,8 +101,8 @@
       "path---36-jetbrains-ring-ui-d986bd2986a2181d0174.js.map"
     ],
     "path---7": [
-      "path---7-e52850f3b6a664c6ee7c.js",
-      "path---7-e52850f3b6a664c6ee7c.js.map"
+      "path---7-78d5fcbb75e3016e568f.js",
+      "path---7-78d5fcbb75e3016e568f.js.map"
     ],
     "path---1-react-fiber": [
       "path---1-react-fiber-1b5831bb5244e021e6c2.js",
@@ -109,8 +113,8 @@
       "path---31-getinstance-59ff84f7dfad36a93a14.js.map"
     ],
     "path---index": [
-      "path---index-a9ba71caa2b2016a10dd.js",
-      "path---index-a9ba71caa2b2016a10dd.js.map"
+      "path---index-63e291f9411e328ccda9.js",
+      "path---index-63e291f9411e328ccda9.js.map"
     ],
     "path---5-redux-derived-data": [
       "path---5-redux-derived-data-4857bcdc5dc9fb37bb49.js",
@@ -125,8 +129,8 @@
       "path---45-simple-podcast-recording-made-easy-483fe980c73146425ca5.js.map"
     ],
     "path---2": [
-      "path---2-cb78a339694d208d3b77.js",
-      "path---2-cb78a339694d208d3b77.js.map"
+      "path---2-bceeaa82e78a62c36bf8.js",
+      "path---2-bceeaa82e78a62c36bf8.js.map"
     ],
     "path---41-dan-abramov-beyond-react-16": [
       "path---41-dan-abramov-beyond-react-16-3fcf4e16235eb3d903fe.js",
@@ -137,8 +141,8 @@
       "path---33-kirill-mokevnin-hexlet-16ac56f7fcb1bd563bdb.js.map"
     ],
     "path---6": [
-      "path---6-85d95af179dc5c356c1b.js",
-      "path---6-85d95af179dc5c356c1b.js.map"
+      "path---6-cbf2a0b43d8af2e11f7d.js",
+      "path---6-cbf2a0b43d8af2e11f7d.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-6a8499945d426c60e0e9.js",
@@ -173,8 +177,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---3": [
-      "path---3-83f752a08cbe0a965498.js",
-      "path---3-83f752a08cbe0a965498.js.map"
+      "path---3-d751133a8f7ca90608c7.js",
+      "path---3-d751133a8f7ca90608c7.js.map"
     ],
     "path---24-podcasts": [
       "path---24-podcasts-3eb84b6c425c881aaf45.js",
@@ -197,8 +201,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---9": [
-      "path---9-1408923c23f421fd6f9c.js",
-      "path---9-1408923c23f421fd6f9c.js.map"
+      "path---9-54ff564a9798025daaa1.js",
+      "path---9-54ff564a9798025daaa1.js.map"
     ],
     "path---25-gatsbyjs": [
       "path---25-gatsbyjs-da8ebef9c5acc0209896.js",
@@ -229,9 +233,9 @@
       "path---34-frontconf-uikit-bem-react-core-c54b753474766188d360.js.map"
     ],
     "app": [
-      "app-b324a2e269bfdd0a81af.js",
+      "app-e25033958677e62bfd28.js",
       "build-js-styles.css",
-      "app-b324a2e269bfdd0a81af.js.map",
+      "app-e25033958677e62bfd28.js.map",
       "build-js-styles.css.map"
     ],
     "path---21-react-next-6-months": [
