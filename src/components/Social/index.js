@@ -33,6 +33,10 @@ function Social({ twitter, youtube, telegram, email, rss, android, itunes, sound
         <SocialLink href={english} target="_blank">
             English version
         </SocialLink>
+
+        <SocialLink href="https://holyjs-moscow.ru/" target="_blank">
+            <strong style={{color: "darkred"}}>HolyJS 2018 Moscow, 24-25 ноября в Москве - 5minreactpromo</strong>
+        </SocialLink>
     </Wrapper>
   );
 }
