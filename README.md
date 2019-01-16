@@ -17,23 +17,21 @@ Apple Podcasts (iTunes): https://itunes.apple.com/ru/podcast/patiminutka-react/i
 ## Инструкции по сборке
 
 ```
-npm install
+yarn install
 ```
 
 **Режим разработки** (локальная версия будет доступна по localhost:8000):
 ```
-gatsby develop
+yarn develop
 ```
 
-**Сборка и публикация**:
+**Сборка статических файлов готовых для деплоя в директорию public**
 ```
-gatsby build
-npm install -g gh-pages
-gh-pages -d public
+yarn build
 ```
 
-Либо одной командой:
+**Сборка и последующая публикация на github pages**:
 ```
-npm run deploy
+yarn deploy
 ```
 
