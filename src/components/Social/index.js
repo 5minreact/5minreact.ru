@@ -33,6 +33,9 @@ function Social({ twitter, youtube, telegram, email, rss, android, itunes, sound
         <SocialLink href={english} target="_blank">
             English version
         </SocialLink>
+        <SocialLink href="https://techtrain.ru" target="_blank">
+            TechTrain 24-25 авг, Спб
+        </SocialLink>
     </Wrapper>
   );
 }
