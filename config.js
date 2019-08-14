@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Пятиминутка React', // Required
   author: 'Пятиминутка React', // Required
-  tagline: 'Подкаст о React и смежных технологиях в мире JavaScript',
+  tagline: 'Подкаст о React и смежных технологиях в мире JavaScript и фронтенда, разбираемся с инструментами, сравниваем фреймворки и пакетные менеджеры, обсуждаем конференции и митапы',
   primaryColor: '#000', // Required
   showHeaderImage: true,
   showShareButtons: false,
