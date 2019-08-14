@@ -33,7 +33,7 @@ function Social({ twitter, youtube, telegram, email, rss, android, itunes, sound
         <SocialLink href={english} target="_blank">
             English version
         </SocialLink>
-        <SocialLink href="https://techtrain.ru" target="_blank">
+        <SocialLink href="https://techtrain.ru/?utm_source=partner&utm_medium=5minphp&utm_campaign=techtrain2019&utm_content=common" target="_blank">
             TechTrain 24-25 авг, Спб
         </SocialLink>
     </Wrapper>
