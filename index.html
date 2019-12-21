@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Подкаст Пятиминутка React</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body>
+<div class="container">
+    <div style="display: flex">
+        <div>
+            <img src="5minreact_logo_white.png" class="logo" alt="logo">
+        </div>
+        <div>
+            <h1>Подкаст Пятиминутка React</h1>
+            <p>
+                Подкаст о React и смежных технологиях в мире JavaScript и фронтенда, разбираемся с инструментами,
+                сравниваем
+                фреймворки и пакетные менеджеры, обсуждаем конференции и митапы
+            </p>
+            <div class="links">
+                <a href="https://itunes.apple.com/ru/podcast/%D0%BF%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-react/id1178897992?mt=2&at=1010lwCk"
+                   target="_blank">iTunes</a>
+                <a href="https://soundcloud.com/5minreact" target="_blank">SoundCloud</a>
+                <a href="https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw/videos?view=0&sort=dd&flow=list"
+                   target="_blank">YouTube</a>
+                <a href="http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss"
+                   target="_blank">RSS</a>
+                <a href="https://twitter.com/5minreact" target="_blank">Twitter</a>
+                <a href="https://t.me/ru_5minreact" target="_blank">Telegram</a>
+                <a href="mailto:podcast@5minreact.ru" target="_blank">E-mail</a>
+                <a href="https://5minreact.audio" target="_blank">English version</a>
+            </div>
+        </div>
+    </div>
+
+
+    <ul class="posts">
+        {{ range . }}
+        <li><a href="/posts/{{ .Slug }}/">{{ .Title }} <span class="date">{{ .Date.Format "02 Jan 2006" }}</span></a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+</body>
+</html>

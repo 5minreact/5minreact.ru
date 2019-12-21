@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>{{ .Title }} - Подкаст Пятиминутка React</title>
+</head>
+
+<body>
+<strong><a href="/">Подкаст Пятиминутка React</a></strong>
+<article class="container">
+    <p class="date" style="float: right">{{ .Date.Format "02 Jan 2006" }}</p>
+    {{ .Body }}
+</article>
+
+</body>
+
+</html>

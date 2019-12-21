@@ -1,37 +1,35 @@
 # Пятиминутка React
 
-Исходный код сайта основанный на статическом генераторе сайтов [Gatsby](https://github.com/gatsbyjs/gatsby) и шаблоне https://github.com/RyanFitzgerald/devblog
+Исходный код сайта основанный на статическом генераторе сайтов [Underblog](https://github.com/freetonik/underblog).
 
-Пятиминутка React - это подкаст о React и смежных технологиях в мире JavaScript.
+Пятиминутка React - подкаст о React и смежных технологиях в мире JavaScript и фронтенда, разбираемся с инструментами,
+                                    сравниваем
+                                    фреймворки и пакетные менеджеры, обсуждаем конференции и митапы.
 
-Сайт подкаста: http://5minreact.ru
+Сайт подкаста: https://5minreact.ru
 
-Twitter: https://twitter.com/5minreact
+Apple Podcasts (iTunes): https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992
 
 RSS: http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss
 
-Apple Podcasts (iTunes): https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992
+Twitter: https://twitter.com/5minreact
 
 Предложения и пожелания пишите на почту [podcast@5minreact.ru](mailto:podcast@5minreact.ru)
 
 ## Инструкции по сборке
 
 ```
-yarn install
-```
-
-**Режим разработки** (локальная версия будет доступна по localhost:8000):
-```
-yarn develop
+npm install
 ```
 
 **Сборка статических файлов готовых для деплоя в директорию public**
+Для сборки требутеся Docker
 ```
-yarn build
+npm build
 ```
 
 **Сборка и последующая публикация на github pages**:
 ```
-yarn deploy
+npm deploy
 ```
 
