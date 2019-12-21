@@ -7,5 +7,8 @@
     "deploy": "./build.sh && gh-pages -d public"
   },
   "author": "Petr Myazin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
