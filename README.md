@@ -25,11 +25,11 @@ npm install
 **Сборка статических файлов готовых для деплоя в директорию public**
 Для сборки требутеся Docker
 ```
-npm build
+npm run build
 ```
 
 **Сборка и последующая публикация на github pages**:
 ```
-npm deploy
+npm run sdeploy
 ```
 

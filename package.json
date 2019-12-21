@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Подкаст Пятиминутка React",
   "scripts": {
-    "build": "build.sh",
-    "deploy": "build.sh && gh-pages -d public"
+    "build": "./build.sh",
+    "deploy": "./build.sh && gh-pages -d public"
   },
   "author": "Petr Myazin",
   "license": "MIT"
