@@ -30,6 +30,6 @@ npm run build
 
 **Сборка и последующая публикация на github pages**:
 ```
-npm run sdeploy
+npm run deploy
 ```
 
