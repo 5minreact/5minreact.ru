@@ -31,21 +31,3 @@ li {
     opacity: .6;
 }
 
-.skyeng {
-    margin: 3px 0;
-    font-size: 13px;
-    opacity: .8;
-    padding: 5px;
-    border-radius: 5px;
-    background-color: #EEEEEE;
-}
-
-
-und-color: #EEEEEE;
-}
-
-.skyeng + .skyeng {
-    margin-top: 0;
-}
-
-
