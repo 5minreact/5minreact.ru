@@ -23,7 +23,7 @@ npm install
 ```
 
 **Сборка статических файлов готовых для деплоя в директорию public**
-Для сборки требутеся Docker
+Для сборки требутеся установленный локально бинарник [Underblog](https://github.com/freetonik/underblog)
 ```
 npm run build
 ```
